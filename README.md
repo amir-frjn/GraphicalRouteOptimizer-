@@ -19,6 +19,4 @@ warning3: If can't import a terminal delay its value will set to 0.
 warning4: Any invalid data(for example a string instead of number in Distance) or any name changes in sheets
 or additional empty cell in Excel file is prone to program error. 
 
-warning5: I create 2 Excel data in model folder as examples their names are:
-    1) Iran_map.xlsx
-    2) America_map.xlsx
+warning5: I create 2 Excel data in model folder as examples their names are: map1, map2
