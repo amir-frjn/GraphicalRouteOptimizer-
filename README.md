@@ -6,9 +6,11 @@ Excel files after reading will convert to this data structure in Python:
     { origin_city: ( terminal_delay, { destination_city: travel_time })}
 notice: cities that have no way to gether set to a negative amount for example in my samples, i set them as -1
 
-
 Also terminals delay are stored in that Excel file which its sheet's name is Delays the first row
 is cities names and second row is their delay time in minuets 
+
+this program draws the map graph and best ways if the drawan graph looks bad and chaotic you can press regenerate
+button on the top side of window to draw it again with new positions
 
 warning1: Sheets name must be: Distances and Delays.
 
