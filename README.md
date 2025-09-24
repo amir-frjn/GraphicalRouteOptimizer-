@@ -1,4 +1,4 @@
-# Duplicate Remover
+# Graphical Route Optimizer
 
 > Read Excel distance/delay data, build a network graph of terminals, and visualize best routes.
 
