@@ -16,6 +16,7 @@ This project reads **Excel files** containing city-to-city distances and optiona
 * [Usage](#usage)
 * [Example](#example)
 * [Samples](#samples)
+* [Preview](#preview)
 
 ---
 
